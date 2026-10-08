@@ -1,15 +1,60 @@
 {
- "updated_at": "2026-10-08T11:55:39+09:00",
+ "updated_at": "2026-10-09T05:41:17+09:00",
  "source": "https://www.mma.go.kr",
  "errors": [],
  "recruits": [
   {
-   "id": "69-1523124",
-   "branch": "army",
+   "id": "72-1523152",
+   "branch": "marine",
    "source": "notice",
-   "title": "2027년 1월 입영 「육군 기술행정병」 모집 안내",
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1523124&mc=usr0000127",
+   "title": "'26년 11월 입영(26-208회차)하는 해병대 병 모집 안내",
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=72&gsgeul_no=1523152&mc=usr0000130",
    "posted": null,
+   "modified": "2026-09-30",
+   "round": "26-208",
+   "extra": true,
+   "events": {
+    "apply": {
+     "start": "2026-10-08T14:00:00+09:00",
+     "end": "2026-10-14T14:00:00+09:00",
+     "dateOnly": false
+    },
+    "first": {
+     "start": "2026-10-26T10:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    },
+    "exam": {
+     "start": "2026-10-27T00:00:00+09:00",
+     "end": "2026-11-02T23:59:59+09:00",
+     "dateOnly": true
+    },
+    "final": {
+     "start": "2026-11-11T10:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    },
+    "enlist": {
+     "start": "2026-11-30T14:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    }
+   },
+   "attachments": [
+    {
+     "name": "★ 26년 11월 입영 해병대 병 추가모집(26-208회차) 계획_최종",
+     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=72&gsgeul_no=1523152&ilryeon_no=1"
+    }
+   ],
+   "fetched_at": null
+  },
+  {
+   "id": "93-1523123",
+   "branch": "army",
+   "source": "plan",
+   "title": "2027년 1월 입영 「육군 기술행정병」 모집 안내",
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=93&gsgeul_no=1523123&mc=usr0000150",
+   "posted": "2026-09-22",
    "modified": "2026-09-22",
    "round": "26-10",
    "extra": false,
@@ -36,14 +81,109 @@
    "attachments": [
     {
      "name": "2026년 10회차(27년 1월 입영) 군사특기별 모집계획",
-     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=69&gsgeul_no=1523124&ilryeon_no=1"
+     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=93&gsgeul_no=1523123&ilryeon_no=1"
     },
     {
      "name": "2026년 10회차(27년 1월 입영) 응시지방청별 전형일정",
-     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=69&gsgeul_no=1523124&ilryeon_no=2"
+     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=93&gsgeul_no=1523123&ilryeon_no=2"
     }
    ],
-   "fetched_at": null
+   "fetched_at": "2026-10-09T05:41:17+09:00"
+  },
+  {
+   "id": "94-1523115",
+   "branch": "navy",
+   "source": "plan",
+   "title": "'27년 1월 입영(26-10회차)하는 해군 병 모집 안내",
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=94&gsgeul_no=1523115&mc=usr0000151",
+   "posted": "2026-09-22",
+   "modified": "2026-10-04",
+   "round": "26-10",
+   "extra": false,
+   "events": {
+    "apply": {
+     "start": "2026-09-30T14:00:00+09:00",
+     "end": "2026-10-06T14:00:00+09:00",
+     "dateOnly": false
+    },
+    "first": {
+     "start": "2026-10-19T10:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    },
+    "exam": {
+     "start": "2026-10-22T00:00:00+09:00",
+     "end": "2026-11-09T23:59:59+09:00",
+     "dateOnly": true
+    },
+    "practical": {
+     "start": "2026-10-20T00:00:00+09:00",
+     "end": "2026-11-10T23:59:59+09:00",
+     "dateOnly": true
+    },
+    "final": {
+     "start": "2026-11-25T10:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    },
+    "enlist": {
+     "start": "2027-01-04T14:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    }
+   },
+   "attachments": [
+    {
+     "name": "26-10회차(27년 1월 입영) 해군 병 모집계획",
+     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=94&gsgeul_no=1523115&ilryeon_no=1"
+    }
+   ],
+   "fetched_at": "2026-10-09T05:41:17+09:00"
+  },
+  {
+   "id": "92-1523116",
+   "branch": "marine",
+   "source": "plan",
+   "title": "'27년 1월 입영(26-10회차)하는 해병대 병 모집 안내",
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=92&gsgeul_no=1523116&mc=usr0000385",
+   "posted": "2026-09-22",
+   "modified": "2026-10-04",
+   "round": "26-10",
+   "extra": false,
+   "events": {
+    "apply": {
+     "start": "2026-09-30T14:00:00+09:00",
+     "end": "2026-10-06T14:00:00+09:00",
+     "dateOnly": false
+    },
+    "first": {
+     "start": "2026-10-19T10:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    },
+    "practical": {
+     "start": "2026-10-22T00:00:00+09:00",
+     "end": "2026-11-10T23:59:59+09:00",
+     "dateOnly": true
+    },
+    "final": {
+     "start": "2026-11-25T10:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    },
+    "enlist": {
+     "start": "2027-01-25T14:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    }
+   },
+   "attachments": [
+    {
+     "name": "26-10회차(27년 1월 입영) 해병대 병 모집계획",
+     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=92&gsgeul_no=1523116&ilryeon_no=1"
+    }
+   ],
+   "fetched_at": "2026-10-09T05:41:17+09:00"
   },
   {
    "id": "71-1523118",
@@ -90,83 +230,315 @@
    "fetched_at": null
   },
   {
-   "id": "70-1523114",
-   "branch": "navy",
-   "source": "notice",
-   "title": "'27년 1월 입영(26-10회차)하는 해군 병 모집 안내",
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1523114&mc=usr0000128",
-   "posted": null,
-   "modified": "2026-10-04",
-   "round": "26-10",
-   "extra": false,
+   "id": "93-1523073",
+   "branch": "army",
+   "source": "plan",
+   "title": "2026년 11월 입영 「육군 기술행정병」 추가모집 안내",
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=93&gsgeul_no=1523073&mc=usr0000150",
+   "posted": "2026-09-18",
+   "modified": "2026-09-18",
+   "round": null,
+   "extra": true,
    "events": {
     "apply": {
-     "start": "2026-09-30T14:00:00+09:00",
-     "end": "2026-10-06T14:00:00+09:00",
-     "dateOnly": false
-    },
-    "first": {
-     "start": "2026-10-19T10:00:00+09:00",
-     "end": null,
-     "dateOnly": false
-    },
-    "exam": {
-     "start": "2026-10-22T00:00:00+09:00",
-     "end": "2026-11-09T23:59:59+09:00",
-     "dateOnly": true
-    },
-    "practical": {
-     "start": "2026-10-20T00:00:00+09:00",
-     "end": "2026-11-10T23:59:59+09:00",
-     "dateOnly": true
-    },
-    "final": {
-     "start": "2026-11-25T10:00:00+09:00",
-     "end": null,
-     "dateOnly": false
-    },
-    "enlist": {
-     "start": "2027-01-04T14:00:00+09:00",
+     "start": "2026-09-21T14:00:00+09:00",
      "end": null,
      "dateOnly": false
     }
    },
    "attachments": [
     {
-     "name": "26-10회차(27년 1월 입영) 해군 병 모집계획",
-     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=70&gsgeul_no=1523114&ilryeon_no=1"
+     "name": "추가모집 공석현황(26년 11월 입영)_게시용(260921)",
+     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=93&gsgeul_no=1523073&ilryeon_no=1"
     }
    ],
-   "fetched_at": null
+   "fetched_at": "2026-10-09T05:41:17+09:00"
   },
   {
-   "id": "72-1523152",
-   "branch": "marine",
-   "source": "notice",
-   "title": "'26년 11월 입영(26-208회차)하는 해병대 병 모집 안내",
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=72&gsgeul_no=1523152&mc=usr0000130",
-   "posted": null,
-   "modified": "2026-09-30",
-   "round": "26-208",
+   "id": "93-1523096",
+   "branch": "army",
+   "source": "plan",
+   "title": "2026년 10월 입영 「육군 기술행정병」 추가모집 안내(일부 특기 계속 접수중)",
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=93&gsgeul_no=1523096&mc=usr0000150",
+   "posted": "2026-09-21",
+   "modified": "2026-09-21",
+   "round": null,
    "extra": true,
    "events": {
     "apply": {
-     "start": "2026-10-08T14:00:00+09:00",
-     "end": "2026-10-14T14:00:00+09:00",
+     "start": "2026-09-08T16:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    }
+   },
+   "attachments": [
+    {
+     "name": "추가모집 공석현황(26년 10월 입영)_게시용(260921)",
+     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=93&gsgeul_no=1523096&ilryeon_no=1"
+    }
+   ],
+   "fetched_at": "2026-10-09T05:41:17+09:00"
+  },
+  {
+   "id": "69-1523013",
+   "branch": "army",
+   "source": "notice",
+   "title": "2026년 10월 입영 「육군 기술행정병」 추가모집 안내",
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1523013&mc=usr0000127",
+   "posted": "2026-09-08",
+   "modified": "2026-09-21",
+   "round": null,
+   "extra": true,
+   "events": {
+    "apply": {
+     "start": "2026-09-08T16:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    }
+   },
+   "attachments": [
+    {
+     "name": "추가모집 공석현황(26년 10월 입영)_게시용(260908)",
+     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=69&gsgeul_no=1523013&ilryeon_no=1"
+    }
+   ],
+   "fetched_at": "2026-10-09T05:41:17+09:00"
+  },
+  {
+   "id": "69-1522967",
+   "branch": "army",
+   "source": "notice",
+   "title": "2026년 10월 입영 「육군 기술행정병」 추가모집 안내(마감)",
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1522967&mc=usr0000127",
+   "posted": "2026-09-01",
+   "modified": "2026-09-07",
+   "round": null,
+   "extra": true,
+   "events": {
+    "apply": {
+     "start": "2026-09-02T14:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    }
+   },
+   "attachments": [
+    {
+     "name": "추가모집 공석현황(26년 10월 입영)_게시용(260902)",
+     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=69&gsgeul_no=1522967&ilryeon_no=1"
+    }
+   ],
+   "fetched_at": "2026-10-09T05:41:17+09:00"
+  },
+  {
+   "id": "93-1522903",
+   "branch": "army",
+   "source": "plan",
+   "title": "2026년 12월 입영 「육군 기술행정병」 모집 안내",
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=93&gsgeul_no=1522903&mc=usr0000150",
+   "posted": "2026-08-20",
+   "modified": "2026-08-20",
+   "round": "26-9",
+   "extra": false,
+   "events": {
+    "apply": {
+     "start": "2026-08-27T14:00:00+09:00",
+     "end": "2026-09-02T14:00:00+09:00",
      "dateOnly": false
     },
     "first": {
-     "start": "2026-10-26T10:00:00+09:00",
+     "start": "2026-09-15T10:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    },
+    "final": {
+     "start": "2026-10-22T10:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    },
+    "enlist": {
+     "month": "2026-12"
+    }
+   },
+   "attachments": [
+    {
+     "name": "2026년 9회차(26년 12월 입영) 응시지방청별 전형일정",
+     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=93&gsgeul_no=1522903&ilryeon_no=1"
+    },
+    {
+     "name": "2026년 9회차(26년 12월 입영) 군사특기별 모집계획",
+     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=93&gsgeul_no=1522903&ilryeon_no=2"
+    }
+   ],
+   "fetched_at": "2026-10-09T05:41:17+09:00"
+  },
+  {
+   "id": "94-1522884",
+   "branch": "navy",
+   "source": "plan",
+   "title": "'26년 12월 입영(26-9회차)하는 해군 병 모집 안내",
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=94&gsgeul_no=1522884&mc=usr0000151",
+   "posted": "2026-08-20",
+   "modified": "2026-08-20",
+   "round": "26-9",
+   "extra": false,
+   "events": {
+    "apply": {
+     "start": "2026-08-27T14:00:00+09:00",
+     "end": "2026-09-02T14:00:00+09:00",
+     "dateOnly": false
+    },
+    "first": {
+     "start": "2026-09-15T10:00:00+09:00",
      "end": null,
      "dateOnly": false
     },
     "exam": {
-     "start": "2026-10-27T00:00:00+09:00",
-     "end": "2026-11-02T23:59:59+09:00",
+     "start": "2026-09-16T00:00:00+09:00",
+     "end": "2026-10-12T23:59:59+09:00",
+     "dateOnly": true
+    },
+    "practical": {
+     "start": "2026-09-16T00:00:00+09:00",
+     "end": "2026-10-12T23:59:59+09:00",
      "dateOnly": true
     },
     "final": {
-     "start": "2026-11-11T10:00:00+09:00",
+     "start": "2026-10-22T10:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    },
+    "enlist": {
+     "start": "2026-12-07T14:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    }
+   },
+   "attachments": [
+    {
+     "name": "○ 26-9회차(26년 12월 입영) 해군 병 모집계획",
+     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=94&gsgeul_no=1522884&ilryeon_no=1"
+    }
+   ],
+   "fetched_at": "2026-10-09T05:41:17+09:00"
+  },
+  {
+   "id": "92-1522887",
+   "branch": "marine",
+   "source": "plan",
+   "title": "'26년 12월 입영(26-9회차)하는 해병대 병 모집 안내",
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=92&gsgeul_no=1522887&mc=usr0000385",
+   "posted": "2026-08-20",
+   "modified": "2026-08-20",
+   "round": "26-9",
+   "extra": false,
+   "events": {
+    "apply": {
+     "start": "2026-08-27T14:00:00+09:00",
+     "end": "2026-09-02T14:00:00+09:00",
+     "dateOnly": false
+    },
+    "first": {
+     "start": "2026-09-15T10:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    },
+    "practical": {
+     "start": "2026-09-16T00:00:00+09:00",
+     "end": "2026-10-12T23:59:59+09:00",
+     "dateOnly": true
+    },
+    "final": {
+     "start": "2026-10-22T10:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    },
+    "enlist": {
+     "start": "2026-12-28T14:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    }
+   },
+   "attachments": [
+    {
+     "name": "○ 26년 9회차(26년 12월 입영) 해병대 병 모집계획",
+     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=92&gsgeul_no=1522887&ilryeon_no=1"
+    }
+   ],
+   "fetched_at": "2026-10-09T05:41:17+09:00"
+  },
+  {
+   "id": "94-1522693",
+   "branch": "navy",
+   "source": "plan",
+   "title": "'26년 11월 입영(26-8회차)하는 해군 병 모집 안내",
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=94&gsgeul_no=1522693&mc=usr0000151",
+   "posted": "2026-07-22",
+   "modified": "2026-08-06",
+   "round": "26-8",
+   "extra": false,
+   "events": {
+    "apply": {
+     "start": "2026-07-29T14:00:00+09:00",
+     "end": "2026-08-04T14:00:00+09:00",
+     "dateOnly": false
+    },
+    "first": {
+     "start": "2026-08-13T10:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    },
+    "practical": {
+     "start": "2026-08-14T00:00:00+09:00",
+     "end": "2026-09-09T23:59:59+09:00",
+     "dateOnly": true
+    },
+    "final": {
+     "start": "2026-09-18T10:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    },
+    "enlist": {
+     "start": "2026-11-09T14:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    }
+   },
+   "attachments": [
+    {
+     "name": "★ 26-8회차(26년 11월 입영) 해군 병 모집계획",
+     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=94&gsgeul_no=1522693&ilryeon_no=1"
+    }
+   ],
+   "fetched_at": "2026-10-09T05:41:17+09:00"
+  },
+  {
+   "id": "92-1522696",
+   "branch": "marine",
+   "source": "plan",
+   "title": "'26년 11월 입영(26-8회차)하는 해병대 병 모집 안내",
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=92&gsgeul_no=1522696&mc=usr0000385",
+   "posted": "2026-07-22",
+   "modified": "2026-08-06",
+   "round": "26-8",
+   "extra": false,
+   "events": {
+    "apply": {
+     "start": "2026-07-29T14:00:00+09:00",
+     "end": "2026-08-04T14:00:00+09:00",
+     "dateOnly": false
+    },
+    "first": {
+     "start": "2026-08-13T10:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    },
+    "practical": {
+     "start": "2026-08-14T00:00:00+09:00",
+     "end": "2026-09-09T23:59:59+09:00",
+     "dateOnly": true
+    },
+    "final": {
+     "start": "2026-09-18T10:00:00+09:00",
      "end": null,
      "dateOnly": false
     },
@@ -178,11 +550,11 @@
    },
    "attachments": [
     {
-     "name": "★ 26년 11월 입영 해병대 병 추가모집(26-208회차) 계획_최종",
-     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=72&gsgeul_no=1523152&ilryeon_no=1"
+     "name": "★ 26년 8회차(26년 11월 입영) 해병대 병 모집계획",
+     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=92&gsgeul_no=1522696&ilryeon_no=1"
     }
    ],
-   "fetched_at": null
+   "fetched_at": "2026-10-09T05:41:17+09:00"
   }
  ],
  "notices": [
@@ -193,7 +565,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1523124&mc=usr0000127",
    "branch": "army",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
   },
   {
    "no": "1523097",
@@ -202,7 +575,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1523097&mc=usr0000127",
    "branch": "army",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
   },
   {
    "no": "1523092",
@@ -211,7 +585,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1523092&mc=usr0000127",
    "branch": "army",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
   },
   {
    "no": "1523090",
@@ -220,7 +595,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1523090&mc=usr0000127",
    "branch": "army",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
   },
   {
    "no": "1523074",
@@ -229,7 +605,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1523074&mc=usr0000127",
    "branch": "army",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
   },
   {
    "no": "1522948",
@@ -238,7 +615,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1522948&mc=usr0000127",
    "branch": "army",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
   },
   {
    "no": "1522932",
@@ -247,7 +625,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1522932&mc=usr0000127",
    "branch": "army",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
   },
   {
    "no": "1522904",
@@ -256,7 +635,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1522904&mc=usr0000127",
    "branch": "army",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
   },
   {
    "no": "1522529",
@@ -265,7 +645,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1522529&mc=usr0000127",
    "branch": "army",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
   },
   {
    "no": "1520594",
@@ -274,7 +655,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1520594&mc=usr0000127",
    "branch": "army",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
   },
   {
    "no": "1520589",
@@ -283,7 +665,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1520589&mc=usr0000127",
    "branch": "army",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
   },
   {
    "no": "1520201",
@@ -292,7 +675,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1520201&mc=usr0000127",
    "branch": "army",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
   },
   {
    "no": "1519660",
@@ -301,7 +685,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1519660&mc=usr0000127",
    "branch": "army",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
   },
   {
    "no": "1514332",
@@ -310,7 +695,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1514332&mc=usr0000127",
    "branch": "army",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
   },
   {
    "no": "1506031",
@@ -319,7 +705,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1506031&mc=usr0000127",
    "branch": "army",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
   },
   {
    "no": "1523221",
@@ -328,7 +715,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1523221&mc=usr0000128",
    "branch": "navy",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
   },
   {
    "no": "1523114",
@@ -337,7 +725,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1523114&mc=usr0000128",
    "branch": "navy",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
   },
   {
    "no": "1523007",
@@ -346,7 +735,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1523007&mc=usr0000128",
    "branch": "navy",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
   },
   {
    "no": "1522895",
@@ -355,7 +745,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1522895&mc=usr0000128",
    "branch": "navy",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
   },
   {
    "no": "1522885",
@@ -364,7 +755,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1522885&mc=usr0000128",
    "branch": "navy",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
   },
   {
    "no": "1522694",
@@ -373,7 +765,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1522694&mc=usr0000128",
    "branch": "navy",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
   },
   {
    "no": "1522415",
@@ -382,7 +775,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1522415&mc=usr0000128",
    "branch": "navy",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
   },
   {
    "no": "1522260",
@@ -391,7 +785,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1522260&mc=usr0000128",
    "branch": "navy",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
   },
   {
    "no": "1522031",
@@ -400,7 +795,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1522031&mc=usr0000128",
    "branch": "navy",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
   },
   {
    "no": "1521982",
@@ -409,7 +805,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1521982&mc=usr0000128",
    "branch": "navy",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
   },
   {
    "no": "1521346",
@@ -418,7 +815,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1521346&mc=usr0000128",
    "branch": "navy",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
   },
   {
    "no": "1520551",
@@ -427,7 +825,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1520551&mc=usr0000128",
    "branch": "navy",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
   },
   {
    "no": "1512174",
@@ -436,7 +835,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1512174&mc=usr0000128",
    "branch": "navy",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
   },
   {
    "no": "1523188",
@@ -445,7 +845,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=71&gsgeul_no=1523188&mc=usr0000129",
    "branch": "airforce",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=71&mc=usr0000129"
   },
   {
    "no": "1523129",
@@ -454,7 +855,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=71&gsgeul_no=1523129&mc=usr0000129",
    "branch": "airforce",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=71&mc=usr0000129"
   },
   {
    "no": "1523126",
@@ -463,7 +865,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=71&gsgeul_no=1523126&mc=usr0000129",
    "branch": "airforce",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=71&mc=usr0000129"
   },
   {
    "no": "1523118",
@@ -472,7 +875,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=71&gsgeul_no=1523118&mc=usr0000129",
    "branch": "airforce",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=71&mc=usr0000129"
   },
   {
    "no": "1522878",
@@ -481,7 +885,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=71&gsgeul_no=1522878&mc=usr0000129",
    "branch": "airforce",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=71&mc=usr0000129"
   },
   {
    "no": "1522758",
@@ -490,7 +895,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=71&gsgeul_no=1522758&mc=usr0000129",
    "branch": "airforce",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=71&mc=usr0000129"
   },
   {
    "no": "1521751",
@@ -499,7 +905,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=71&gsgeul_no=1521751&mc=usr0000129",
    "branch": "airforce",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=71&mc=usr0000129"
   },
   {
    "no": "1520539",
@@ -508,7 +915,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=71&gsgeul_no=1520539&mc=usr0000129",
    "branch": "airforce",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=71&mc=usr0000129"
   },
   {
    "no": "1518376",
@@ -517,7 +925,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=71&gsgeul_no=1518376&mc=usr0000129",
    "branch": "airforce",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=71&mc=usr0000129"
   },
   {
    "no": "1514430",
@@ -526,7 +935,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=71&gsgeul_no=1514430&mc=usr0000129",
    "branch": "airforce",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=71&mc=usr0000129"
   },
   {
    "no": "1522979",
@@ -535,7 +945,8 @@
    "pinned": false,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=71&gsgeul_no=1522979&mc=usr0000129",
    "branch": "airforce",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=71&mc=usr0000129"
   },
   {
    "no": "1522949",
@@ -544,7 +955,8 @@
    "pinned": false,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=71&gsgeul_no=1522949&mc=usr0000129",
    "branch": "airforce",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=71&mc=usr0000129"
   },
   {
    "no": "1522728",
@@ -553,7 +965,8 @@
    "pinned": false,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=71&gsgeul_no=1522728&mc=usr0000129",
    "branch": "airforce",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=71&mc=usr0000129"
   },
   {
    "no": "1522686",
@@ -562,7 +975,8 @@
    "pinned": false,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=71&gsgeul_no=1522686&mc=usr0000129",
    "branch": "airforce",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=71&mc=usr0000129"
   },
   {
    "no": "1523220",
@@ -571,7 +985,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=72&gsgeul_no=1523220&mc=usr0000130",
    "branch": "marine",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=72&mc=usr0000130"
   },
   {
    "no": "1523152",
@@ -580,7 +995,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=72&gsgeul_no=1523152&mc=usr0000130",
    "branch": "marine",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=72&mc=usr0000130"
   },
   {
    "no": "1523117",
@@ -589,7 +1005,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=72&gsgeul_no=1523117&mc=usr0000130",
    "branch": "marine",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=72&mc=usr0000130"
   },
   {
    "no": "1523050",
@@ -598,7 +1015,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=72&gsgeul_no=1523050&mc=usr0000130",
    "branch": "marine",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=72&mc=usr0000130"
   },
   {
    "no": "1522944",
@@ -607,7 +1025,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=72&gsgeul_no=1522944&mc=usr0000130",
    "branch": "marine",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=72&mc=usr0000130"
   },
   {
    "no": "1522886",
@@ -616,7 +1035,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=72&gsgeul_no=1522886&mc=usr0000130",
    "branch": "marine",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=72&mc=usr0000130"
   },
   {
    "no": "1522810",
@@ -625,7 +1045,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=72&gsgeul_no=1522810&mc=usr0000130",
    "branch": "marine",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=72&mc=usr0000130"
   },
   {
    "no": "1522740",
@@ -634,7 +1055,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=72&gsgeul_no=1522740&mc=usr0000130",
    "branch": "marine",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=72&mc=usr0000130"
   },
   {
    "no": "1522695",
@@ -643,7 +1065,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=72&gsgeul_no=1522695&mc=usr0000130",
    "branch": "marine",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=72&mc=usr0000130"
   },
   {
    "no": "1522588",
@@ -652,7 +1075,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=72&gsgeul_no=1522588&mc=usr0000130",
    "branch": "marine",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=72&mc=usr0000130"
   },
   {
    "no": "1522421",
@@ -661,7 +1085,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=72&gsgeul_no=1522421&mc=usr0000130",
    "branch": "marine",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=72&mc=usr0000130"
   },
   {
    "no": "1522349",
@@ -670,7 +1095,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=72&gsgeul_no=1522349&mc=usr0000130",
    "branch": "marine",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=72&mc=usr0000130"
   },
   {
    "no": "1522262",
@@ -679,7 +1105,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=72&gsgeul_no=1522262&mc=usr0000130",
    "branch": "marine",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=72&mc=usr0000130"
   },
   {
    "no": "1522025",
@@ -688,7 +1115,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=72&gsgeul_no=1522025&mc=usr0000130",
    "branch": "marine",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=72&mc=usr0000130"
   },
   {
    "no": "1521983",
@@ -697,7 +1125,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=72&gsgeul_no=1521983&mc=usr0000130",
    "branch": "marine",
-   "board": "notice"
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=72&mc=usr0000130"
   },
   {
    "no": "1523056",
@@ -706,7 +1135,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=91&gsgeul_no=1523056&mc=mma0003717",
    "branch": null,
-   "board": "score"
+   "board": "score",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=91&mc=mma0003717"
   },
   {
    "no": "1523055",
@@ -715,7 +1145,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=91&gsgeul_no=1523055&mc=mma0003717",
    "branch": null,
-   "board": "score"
+   "board": "score",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=91&mc=mma0003717"
   },
   {
    "no": "1523054",
@@ -724,7 +1155,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=91&gsgeul_no=1523054&mc=mma0003717",
    "branch": null,
-   "board": "score"
+   "board": "score",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=91&mc=mma0003717"
   },
   {
    "no": "1523053",
@@ -733,7 +1165,8 @@
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=91&gsgeul_no=1523053&mc=mma0003717",
    "branch": null,
-   "board": "score"
+   "board": "score",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=91&mc=mma0003717"
   },
   {
    "no": "1522840",
@@ -742,7 +1175,8 @@
    "pinned": false,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=91&gsgeul_no=1522840&mc=mma0003717",
    "branch": null,
-   "board": "score"
+   "board": "score",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=91&mc=mma0003717"
   },
   {
    "no": "1522839",
@@ -751,7 +1185,8 @@
    "pinned": false,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=91&gsgeul_no=1522839&mc=mma0003717",
    "branch": null,
-   "board": "score"
+   "board": "score",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=91&mc=mma0003717"
   },
   {
    "no": "1522838",
@@ -760,7 +1195,8 @@
    "pinned": false,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=91&gsgeul_no=1522838&mc=mma0003717",
    "branch": null,
-   "board": "score"
+   "board": "score",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=91&mc=mma0003717"
   },
   {
    "no": "1522837",
@@ -769,7 +1205,8 @@
    "pinned": false,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=91&gsgeul_no=1522837&mc=mma0003717",
    "branch": null,
-   "board": "score"
+   "board": "score",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=91&mc=mma0003717"
   },
   {
    "no": "1522620",
@@ -778,7 +1215,8 @@
    "pinned": false,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=91&gsgeul_no=1522620&mc=mma0003717",
    "branch": null,
-   "board": "score"
+   "board": "score",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=91&mc=mma0003717"
   },
   {
    "no": "1522619",
@@ -787,8 +1225,28 @@
    "pinned": false,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=91&gsgeul_no=1522619&mc=mma0003717",
    "branch": null,
-   "board": "score"
+   "board": "score",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=91&mc=mma0003717"
   }
  ],
- "_seen_empty": {}
+ "_seen_empty": {
+  "93-1523167": "2026-10-01",
+  "93-1523122": "2026-09-22",
+  "93-1523121": "2026-09-22",
+  "93-1523068": "2026-09-16",
+  "93-1523067": "2026-09-16",
+  "93-1523066": "2026-09-16",
+  "94-1523222": "2026-10-08",
+  "95-1523127": "2026-09-23",
+  "95-1522732": "2026-07-29",
+  "92-1523223": "2026-10-08",
+  "69-1523092": "2026-09-21",
+  "69-1523090": "2026-09-21",
+  "69-1522948": "2026-08-28",
+  "70-1523221": "2026-10-08",
+  "71-1523129": "2026-09-23",
+  "71-1523126": "2026-09-23",
+  "71-1522728": "2026-07-29",
+  "72-1523220": "2026-10-08"
+ }
 }
