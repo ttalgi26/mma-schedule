@@ -1,8 +1,33 @@
 {
- "updated_at": "2026-10-12T04:32:41+09:00",
+ "updated_at": "2026-10-12T19:43:45+09:00",
  "source": "https://www.mma.go.kr",
  "errors": [],
  "recruits": [
+  {
+   "id": "93-1523239",
+   "branch": "army",
+   "source": "plan",
+   "title": "2026년 11월 입영 「육군 기술행정병」 추가모집 안내",
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=93&gsgeul_no=1523239&mc=usr0000150",
+   "posted": "2026-10-12",
+   "modified": "2026-10-12",
+   "round": null,
+   "extra": true,
+   "events": {
+    "apply": {
+     "start": "2026-10-13T14:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    }
+   },
+   "attachments": [
+    {
+     "name": "추가모집 공석현황(26년 11월 입영)_게시용(261013)",
+     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=93&gsgeul_no=1523239&ilryeon_no=1"
+    }
+   ],
+   "fetched_at": "2026-10-12T19:43:45+09:00"
+  },
   {
    "id": "72-1523152",
    "branch": "marine",
@@ -230,13 +255,13 @@
    "fetched_at": null
   },
   {
-   "id": "93-1523073",
+   "id": "69-1523074",
    "branch": "army",
-   "source": "plan",
-   "title": "2026년 11월 입영 「육군 기술행정병」 추가모집 안내",
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=93&gsgeul_no=1523073&mc=usr0000150",
+   "source": "notice",
+   "title": "2026년 11월 입영 「육군 기술행정병」 추가모집 안내(마감)",
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1523074&mc=usr0000127",
    "posted": "2026-09-18",
-   "modified": "2026-09-18",
+   "modified": "2026-10-12",
    "round": null,
    "extra": true,
    "events": {
@@ -249,10 +274,10 @@
    "attachments": [
     {
      "name": "추가모집 공석현황(26년 11월 입영)_게시용(260921)",
-     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=93&gsgeul_no=1523073&ilryeon_no=1"
+     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=69&gsgeul_no=1523074&ilryeon_no=1"
     }
    ],
-   "fetched_at": "2026-10-09T05:41:17+09:00"
+   "fetched_at": "2026-10-12T19:43:45+09:00"
   },
   {
    "id": "93-1523096",
@@ -280,6 +305,31 @@
    "fetched_at": "2026-10-09T05:41:17+09:00"
   },
   {
+   "id": "69-1523097",
+   "branch": "army",
+   "source": "notice",
+   "title": "2026년 10월 입영 「육군 기술행정병」 추가모집 안내(마감)",
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1523097&mc=usr0000127",
+   "posted": "2026-09-21",
+   "modified": "2026-10-12",
+   "round": null,
+   "extra": true,
+   "events": {
+    "apply": {
+     "start": "2026-09-08T16:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    }
+   },
+   "attachments": [
+    {
+     "name": "추가모집 공석현황(26년 10월 입영)_게시용(260921)",
+     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=69&gsgeul_no=1523097&ilryeon_no=1"
+    }
+   ],
+   "fetched_at": "2026-10-12T19:43:45+09:00"
+  },
+  {
    "id": "69-1523013",
    "branch": "army",
    "source": "notice",
@@ -300,73 +350,6 @@
     {
      "name": "추가모집 공석현황(26년 10월 입영)_게시용(260908)",
      "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=69&gsgeul_no=1523013&ilryeon_no=1"
-    }
-   ],
-   "fetched_at": "2026-10-09T05:41:17+09:00"
-  },
-  {
-   "id": "69-1522967",
-   "branch": "army",
-   "source": "notice",
-   "title": "2026년 10월 입영 「육군 기술행정병」 추가모집 안내(마감)",
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1522967&mc=usr0000127",
-   "posted": "2026-09-01",
-   "modified": "2026-09-07",
-   "round": null,
-   "extra": true,
-   "events": {
-    "apply": {
-     "start": "2026-09-02T14:00:00+09:00",
-     "end": null,
-     "dateOnly": false
-    }
-   },
-   "attachments": [
-    {
-     "name": "추가모집 공석현황(26년 10월 입영)_게시용(260902)",
-     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=69&gsgeul_no=1522967&ilryeon_no=1"
-    }
-   ],
-   "fetched_at": "2026-10-09T05:41:17+09:00"
-  },
-  {
-   "id": "93-1522903",
-   "branch": "army",
-   "source": "plan",
-   "title": "2026년 12월 입영 「육군 기술행정병」 모집 안내",
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=93&gsgeul_no=1522903&mc=usr0000150",
-   "posted": "2026-08-20",
-   "modified": "2026-08-20",
-   "round": "26-9",
-   "extra": false,
-   "events": {
-    "apply": {
-     "start": "2026-08-27T14:00:00+09:00",
-     "end": "2026-09-02T14:00:00+09:00",
-     "dateOnly": false
-    },
-    "first": {
-     "start": "2026-09-15T10:00:00+09:00",
-     "end": null,
-     "dateOnly": false
-    },
-    "final": {
-     "start": "2026-10-22T10:00:00+09:00",
-     "end": null,
-     "dateOnly": false
-    },
-    "enlist": {
-     "month": "2026-12"
-    }
-   },
-   "attachments": [
-    {
-     "name": "2026년 9회차(26년 12월 입영) 응시지방청별 전형일정",
-     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=93&gsgeul_no=1522903&ilryeon_no=1"
-    },
-    {
-     "name": "2026년 9회차(26년 12월 입영) 군사특기별 모집계획",
-     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=93&gsgeul_no=1522903&ilryeon_no=2"
     }
    ],
    "fetched_at": "2026-10-09T05:41:17+09:00"
@@ -467,6 +450,48 @@
    "fetched_at": "2026-10-09T05:41:17+09:00"
   },
   {
+   "id": "93-1522903",
+   "branch": "army",
+   "source": "plan",
+   "title": "2026년 12월 입영 「육군 기술행정병」 모집 안내",
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=93&gsgeul_no=1522903&mc=usr0000150",
+   "posted": "2026-08-20",
+   "modified": "2026-08-20",
+   "round": "26-9",
+   "extra": false,
+   "events": {
+    "apply": {
+     "start": "2026-08-27T14:00:00+09:00",
+     "end": "2026-09-02T14:00:00+09:00",
+     "dateOnly": false
+    },
+    "first": {
+     "start": "2026-09-15T10:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    },
+    "final": {
+     "start": "2026-10-22T10:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    },
+    "enlist": {
+     "month": "2026-12"
+    }
+   },
+   "attachments": [
+    {
+     "name": "2026년 9회차(26년 12월 입영) 응시지방청별 전형일정",
+     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=93&gsgeul_no=1522903&ilryeon_no=1"
+    },
+    {
+     "name": "2026년 9회차(26년 12월 입영) 군사특기별 모집계획",
+     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=93&gsgeul_no=1522903&ilryeon_no=2"
+    }
+   ],
+   "fetched_at": "2026-10-09T05:41:17+09:00"
+  },
+  {
    "id": "94-1522693",
    "branch": "navy",
    "source": "plan",
@@ -559,21 +584,21 @@
  ],
  "notices": [
   {
-   "no": "1523124",
-   "title": "2027년 1월 입영 「육군 기술행정병」 모집 안내",
-   "posted": "2026-09-22",
+   "no": "1523240",
+   "title": "2026년 11월 입영 「육군 기술행정병」 추가모집…",
+   "posted": "2026-10-12",
    "pinned": true,
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1523124&mc=usr0000127",
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1523240&mc=usr0000127",
    "branch": "army",
    "board": "notice",
    "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
   },
   {
-   "no": "1523097",
-   "title": "2026년 10월 입영 「육군 기술행정병」 추가모집…",
-   "posted": "2026-09-21",
+   "no": "1523124",
+   "title": "2027년 1월 입영 「육군 기술행정병」 모집 안내",
+   "posted": "2026-09-22",
    "pinned": true,
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1523097&mc=usr0000127",
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1523124&mc=usr0000127",
    "branch": "army",
    "board": "notice",
    "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
@@ -599,16 +624,6 @@
    "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
   },
   {
-   "no": "1523074",
-   "title": "2026년 11월 입영 「육군 기술행정병」 추가모집…",
-   "posted": "2026-09-18",
-   "pinned": true,
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1523074&mc=usr0000127",
-   "branch": "army",
-   "board": "notice",
-   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
-  },
-  {
    "no": "1522948",
    "title": "육군 제2외국어어학병 모집일정 안내(2027년도 입…",
    "posted": "2026-08-28",
@@ -624,16 +639,6 @@
    "posted": "2026-08-24",
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1522932&mc=usr0000127",
-   "branch": "army",
-   "board": "notice",
-   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
-  },
-  {
-   "no": "1522904",
-   "title": "2026년 12월 입영 「육군 기술행정병」 모집 안…",
-   "posted": "2026-08-20",
-   "pinned": true,
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1522904&mc=usr0000127",
    "branch": "army",
    "board": "notice",
    "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
@@ -704,6 +709,26 @@
    "posted": "2020-11-18",
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1506031&mc=usr0000127",
+   "branch": "army",
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
+  },
+  {
+   "no": "1523097",
+   "title": "2026년 10월 입영 「육군 기술행정병」 추가모집…",
+   "posted": "2026-09-21",
+   "pinned": false,
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1523097&mc=usr0000127",
+   "branch": "army",
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
+  },
+  {
+   "no": "1523074",
+   "title": "2026년 11월 입영 「육군 기술행정병」 추가모집…",
+   "posted": "2026-09-18",
+   "pinned": false,
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1523074&mc=usr0000127",
    "branch": "army",
    "board": "notice",
    "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
@@ -1247,6 +1272,8 @@
   "71-1523129": "2026-09-23",
   "71-1523126": "2026-09-23",
   "71-1522728": "2026-07-29",
-  "72-1523220": "2026-10-08"
+  "72-1523220": "2026-10-08",
+  "93-1523237": "2026-10-12",
+  "93-1523236": "2026-10-12"
  }
 }
