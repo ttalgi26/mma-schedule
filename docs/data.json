@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T16:44:44+09:00",
+ "updated_at": "2026-10-18T02:51:25+09:00",
  "source": "https://www.mma.go.kr",
  "errors": [],
  "recruits": [
@@ -824,16 +824,6 @@
    "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
   },
   {
-   "no": "1521982",
-   "title": "(강조) 해군 모집병 어학성적 관련 알림(26-10…",
-   "posted": "2026-04-17",
-   "pinned": true,
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1521982&mc=usr0000128",
-   "branch": "navy",
-   "board": "notice",
-   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
-  },
-  {
    "no": "1521346",
    "title": "해군 전문특기병(드론정비운용병) 신설 알림(26-3…",
    "posted": "2026-01-20",
@@ -1144,11 +1134,11 @@
    "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=72&mc=usr0000130"
   },
   {
-   "no": "1521983",
-   "title": "(강조) 해병대 모집병 어학성적 관련 알림(26-1…",
-   "posted": "2026-04-17",
+   "no": "1520787",
+   "title": "(수정)2026년 해병대 병 연간 모집일정 안내",
+   "posted": "2025-10-28",
    "pinned": true,
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=72&gsgeul_no=1521983&mc=usr0000130",
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=72&gsgeul_no=1520787&mc=usr0000130",
    "branch": "marine",
    "board": "notice",
    "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=72&mc=usr0000130"
