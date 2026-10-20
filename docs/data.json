@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T05:34:51+09:00",
+ "updated_at": "2026-10-20T17:28:29+09:00",
  "source": "https://www.mma.go.kr",
  "errors": [],
  "recruits": [
@@ -854,6 +854,16 @@
    "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
   },
   {
+   "no": "1523286",
+   "title": "\"26년 12월 입영(26-109회차)하는 해군 병…",
+   "posted": "2026-10-20",
+   "pinned": false,
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1523286&mc=usr0000128",
+   "branch": "navy",
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
+  },
+  {
    "no": "1523188",
    "title": "[필독] 2027년 입영대상(2차) 공군 일반병 지…",
    "posted": "2026-10-06",
@@ -992,6 +1002,16 @@
    "branch": "airforce",
    "board": "notice",
    "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=71&mc=usr0000129"
+  },
+  {
+   "no": "1523287",
+   "title": "26년 12월 입영(26-109회차)하는 해병대 병…",
+   "posted": "2026-10-20",
+   "pinned": true,
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=72&gsgeul_no=1523287&mc=usr0000130",
+   "branch": "marine",
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=72&mc=usr0000130"
   },
   {
    "no": "1523220",
@@ -1134,16 +1154,6 @@
    "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=72&mc=usr0000130"
   },
   {
-   "no": "1520787",
-   "title": "(수정)2026년 해병대 병 연간 모집일정 안내",
-   "posted": "2025-10-28",
-   "pinned": true,
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=72&gsgeul_no=1520787&mc=usr0000130",
-   "branch": "marine",
-   "board": "notice",
-   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=72&mc=usr0000130"
-  },
-  {
    "no": "1523280",
    "title": "육군 기술행정병 26-10회차('27년 1월 입영)…",
    "posted": "2026-10-19",
@@ -1248,9 +1258,6 @@
   "93-1523167": "2026-10-01",
   "93-1523122": "2026-09-22",
   "93-1523121": "2026-09-22",
-  "93-1523068": "2026-09-16",
-  "93-1523067": "2026-09-16",
-  "93-1523066": "2026-09-16",
   "94-1523222": "2026-10-08",
   "95-1523127": "2026-09-23",
   "95-1522732": "2026-07-29",
@@ -1264,6 +1271,9 @@
   "71-1522728": "2026-07-29",
   "72-1523220": "2026-10-08",
   "93-1523237": "2026-10-12",
-  "93-1523236": "2026-10-12"
+  "93-1523236": "2026-10-12",
+  "93-1523297": "2026-10-20",
+  "93-1523296": "2026-10-20",
+  "93-1523295": "2026-10-20"
  }
 }
