@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T17:33:21+09:00",
+ "updated_at": "2026-10-23T04:12:24+09:00",
  "source": "https://www.mma.go.kr",
  "errors": [],
  "recruits": [
@@ -43,7 +43,7 @@
      "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=93&gsgeul_no=1523309&ilryeon_no=2"
     }
    ],
-   "fetched_at": "2026-10-22T17:33:21+09:00"
+   "fetched_at": "2026-10-23T04:12:24+09:00"
   },
   {
    "id": "94-1523322",
@@ -93,7 +93,7 @@
      "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=94&gsgeul_no=1523322&ilryeon_no=1"
     }
    ],
-   "fetched_at": "2026-10-22T17:33:21+09:00"
+   "fetched_at": "2026-10-23T04:12:24+09:00"
   },
   {
    "id": "92-1523320",
@@ -138,7 +138,7 @@
      "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=92&gsgeul_no=1523320&ilryeon_no=1"
     }
    ],
-   "fetched_at": "2026-10-22T17:33:21+09:00"
+   "fetched_at": "2026-10-23T04:12:24+09:00"
   },
   {
    "id": "93-1523239",
