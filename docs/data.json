@@ -1,8 +1,57 @@
 {
- "updated_at": "2026-10-25T17:21:50+09:00",
+ "updated_at": "2026-10-26T03:23:42+09:00",
  "source": "https://www.mma.go.kr",
- "errors": [],
+ "errors": [
+  "목록 93: HTTPSConnectionPool(host='www.mma.go.kr', port=443): Read timed out. (read timeout=25)",
+  "목록 94: HTTPSConnectionPool(host='www.mma.go.kr', port=443): Read timed out. (read timeout=25)",
+  "목록 95: HTTPSConnectionPool(host='www.mma.go.kr', port=443): Read timed out. (read timeout=25)"
+ ],
  "recruits": [
+  {
+   "id": "92-1523320",
+   "branch": "marine",
+   "source": "plan",
+   "title": "'27년 2월 입영하는(26-11회차) 해병대 병 모집계획 안내",
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=92&gsgeul_no=1523320&mc=usr0000385",
+   "posted": "2026-10-22",
+   "modified": "2026-10-22",
+   "round": "26-11",
+   "extra": false,
+   "events": {
+    "apply": {
+     "start": "2026-10-28T14:00:00+09:00",
+     "end": "2026-11-03T14:00:00+09:00",
+     "dateOnly": false
+    },
+    "first": {
+     "start": "2026-11-16T10:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    },
+    "practical": {
+     "start": "2026-11-17T00:00:00+09:00",
+     "end": "2026-12-08T23:59:59+09:00",
+     "dateOnly": true
+    },
+    "final": {
+     "start": "2026-12-30T10:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    },
+    "enlist": {
+     "start": "2027-02-22T14:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    }
+   },
+   "attachments": [
+    {
+     "name": "26-11회차(27년 2월 입영) 해병대 병 모집계획",
+     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=92&gsgeul_no=1523320&ilryeon_no=1"
+    }
+   ],
+   "fetched_at": "2026-10-26T03:23:42+09:00"
+  },
   {
    "id": "93-1523309",
    "branch": "army",
@@ -91,51 +140,6 @@
     {
      "name": "26-11회차(27년 2월 입영) 해군 병 모집계획(수정)",
      "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=94&gsgeul_no=1523322&ilryeon_no=1"
-    }
-   ],
-   "fetched_at": "2026-10-25T17:21:50+09:00"
-  },
-  {
-   "id": "92-1523320",
-   "branch": "marine",
-   "source": "plan",
-   "title": "'27년 2월 입영하는(26-11회차) 해병대 병 모집계획 안내",
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=92&gsgeul_no=1523320&mc=usr0000385",
-   "posted": "2026-10-22",
-   "modified": "2026-10-22",
-   "round": "26-11",
-   "extra": false,
-   "events": {
-    "apply": {
-     "start": "2026-10-28T14:00:00+09:00",
-     "end": "2026-11-03T14:00:00+09:00",
-     "dateOnly": false
-    },
-    "first": {
-     "start": "2026-11-16T10:00:00+09:00",
-     "end": null,
-     "dateOnly": false
-    },
-    "practical": {
-     "start": "2026-11-17T00:00:00+09:00",
-     "end": "2026-12-08T23:59:59+09:00",
-     "dateOnly": true
-    },
-    "final": {
-     "start": "2026-12-30T10:00:00+09:00",
-     "end": null,
-     "dateOnly": false
-    },
-    "enlist": {
-     "start": "2027-02-22T14:00:00+09:00",
-     "end": null,
-     "dateOnly": false
-    }
-   },
-   "attachments": [
-    {
-     "name": "26-11회차(27년 2월 입영) 해병대 병 모집계획",
-     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=92&gsgeul_no=1523320&ilryeon_no=1"
     }
    ],
    "fetched_at": "2026-10-25T17:21:50+09:00"
@@ -236,6 +240,51 @@
    "fetched_at": null
   },
   {
+   "id": "92-1523116",
+   "branch": "marine",
+   "source": "plan",
+   "title": "'27년 1월 입영(26-10회차)하는 해병대 병 모집 안내",
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=92&gsgeul_no=1523116&mc=usr0000385",
+   "posted": "2026-09-22",
+   "modified": "2026-10-04",
+   "round": "26-10",
+   "extra": false,
+   "events": {
+    "apply": {
+     "start": "2026-09-30T14:00:00+09:00",
+     "end": "2026-10-06T14:00:00+09:00",
+     "dateOnly": false
+    },
+    "first": {
+     "start": "2026-10-19T10:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    },
+    "practical": {
+     "start": "2026-10-22T00:00:00+09:00",
+     "end": "2026-11-10T23:59:59+09:00",
+     "dateOnly": true
+    },
+    "final": {
+     "start": "2026-11-25T10:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    },
+    "enlist": {
+     "start": "2027-01-25T14:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    }
+   },
+   "attachments": [
+    {
+     "name": "26-10회차(27년 1월 입영) 해병대 병 모집계획",
+     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=92&gsgeul_no=1523116&ilryeon_no=1"
+    }
+   ],
+   "fetched_at": "2026-10-09T05:41:17+09:00"
+  },
+  {
    "id": "94-1523115",
    "branch": "navy",
    "source": "plan",
@@ -281,51 +330,6 @@
     {
      "name": "26-10회차(27년 1월 입영) 해군 병 모집계획",
      "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=94&gsgeul_no=1523115&ilryeon_no=1"
-    }
-   ],
-   "fetched_at": "2026-10-09T05:41:17+09:00"
-  },
-  {
-   "id": "92-1523116",
-   "branch": "marine",
-   "source": "plan",
-   "title": "'27년 1월 입영(26-10회차)하는 해병대 병 모집 안내",
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=92&gsgeul_no=1523116&mc=usr0000385",
-   "posted": "2026-09-22",
-   "modified": "2026-10-04",
-   "round": "26-10",
-   "extra": false,
-   "events": {
-    "apply": {
-     "start": "2026-09-30T14:00:00+09:00",
-     "end": "2026-10-06T14:00:00+09:00",
-     "dateOnly": false
-    },
-    "first": {
-     "start": "2026-10-19T10:00:00+09:00",
-     "end": null,
-     "dateOnly": false
-    },
-    "practical": {
-     "start": "2026-10-22T00:00:00+09:00",
-     "end": "2026-11-10T23:59:59+09:00",
-     "dateOnly": true
-    },
-    "final": {
-     "start": "2026-11-25T10:00:00+09:00",
-     "end": null,
-     "dateOnly": false
-    },
-    "enlist": {
-     "start": "2027-01-25T14:00:00+09:00",
-     "end": null,
-     "dateOnly": false
-    }
-   },
-   "attachments": [
-    {
-     "name": "26-10회차(27년 1월 입영) 해병대 병 모집계획",
-     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=92&gsgeul_no=1523116&ilryeon_no=1"
     }
    ],
    "fetched_at": "2026-10-09T05:41:17+09:00"
@@ -417,6 +421,51 @@
    "fetched_at": null
   },
   {
+   "id": "92-1522887",
+   "branch": "marine",
+   "source": "plan",
+   "title": "'26년 12월 입영(26-9회차)하는 해병대 병 모집 안내",
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=92&gsgeul_no=1522887&mc=usr0000385",
+   "posted": "2026-08-20",
+   "modified": "2026-08-20",
+   "round": "26-9",
+   "extra": false,
+   "events": {
+    "apply": {
+     "start": "2026-08-27T14:00:00+09:00",
+     "end": "2026-09-02T14:00:00+09:00",
+     "dateOnly": false
+    },
+    "first": {
+     "start": "2026-09-15T10:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    },
+    "practical": {
+     "start": "2026-09-16T00:00:00+09:00",
+     "end": "2026-10-12T23:59:59+09:00",
+     "dateOnly": true
+    },
+    "final": {
+     "start": "2026-10-22T10:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    },
+    "enlist": {
+     "start": "2026-12-28T14:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    }
+   },
+   "attachments": [
+    {
+     "name": "○ 26년 9회차(26년 12월 입영) 해병대 병 모집계획",
+     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=92&gsgeul_no=1522887&ilryeon_no=1"
+    }
+   ],
+   "fetched_at": "2026-10-09T05:41:17+09:00"
+  },
+  {
    "id": "94-1522884",
    "branch": "navy",
    "source": "plan",
@@ -462,51 +511,6 @@
     {
      "name": "○ 26-9회차(26년 12월 입영) 해군 병 모집계획",
      "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=94&gsgeul_no=1522884&ilryeon_no=1"
-    }
-   ],
-   "fetched_at": "2026-10-09T05:41:17+09:00"
-  },
-  {
-   "id": "92-1522887",
-   "branch": "marine",
-   "source": "plan",
-   "title": "'26년 12월 입영(26-9회차)하는 해병대 병 모집 안내",
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=92&gsgeul_no=1522887&mc=usr0000385",
-   "posted": "2026-08-20",
-   "modified": "2026-08-20",
-   "round": "26-9",
-   "extra": false,
-   "events": {
-    "apply": {
-     "start": "2026-08-27T14:00:00+09:00",
-     "end": "2026-09-02T14:00:00+09:00",
-     "dateOnly": false
-    },
-    "first": {
-     "start": "2026-09-15T10:00:00+09:00",
-     "end": null,
-     "dateOnly": false
-    },
-    "practical": {
-     "start": "2026-09-16T00:00:00+09:00",
-     "end": "2026-10-12T23:59:59+09:00",
-     "dateOnly": true
-    },
-    "final": {
-     "start": "2026-10-22T10:00:00+09:00",
-     "end": null,
-     "dateOnly": false
-    },
-    "enlist": {
-     "start": "2026-12-28T14:00:00+09:00",
-     "end": null,
-     "dateOnly": false
-    }
-   },
-   "attachments": [
-    {
-     "name": "○ 26년 9회차(26년 12월 입영) 해병대 병 모집계획",
-     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=92&gsgeul_no=1522887&ilryeon_no=1"
     }
    ],
    "fetched_at": "2026-10-09T05:41:17+09:00"
@@ -1317,10 +1321,6 @@
   }
  ],
  "_seen_empty": {
-  "93-1523167": "2026-10-01",
-  "94-1523222": "2026-10-08",
-  "95-1523127": "2026-09-23",
-  "95-1522732": "2026-07-29",
   "92-1523223": "2026-10-08",
   "69-1523092": "2026-09-21",
   "69-1523090": "2026-09-21",
@@ -1329,11 +1329,6 @@
   "71-1523129": "2026-09-23",
   "71-1523126": "2026-09-23",
   "71-1522728": "2026-07-29",
-  "72-1523220": "2026-10-08",
-  "93-1523237": "2026-10-12",
-  "93-1523236": "2026-10-12",
-  "93-1523297": "2026-10-20",
-  "93-1523296": "2026-10-20",
-  "93-1523295": "2026-10-20"
+  "72-1523220": "2026-10-08"
  }
 }
