@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T05:14:48+09:00",
+ "updated_at": "2026-10-29T18:53:54+09:00",
  "source": "https://www.mma.go.kr",
  "errors": [],
  "recruits": [
@@ -43,7 +43,7 @@
      "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=93&gsgeul_no=1523309&ilryeon_no=2"
     }
    ],
-   "fetched_at": "2026-10-29T05:14:48+09:00"
+   "fetched_at": "2026-10-29T18:53:54+09:00"
   },
   {
    "id": "94-1523322",
@@ -93,7 +93,7 @@
      "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=94&gsgeul_no=1523322&ilryeon_no=1"
     }
    ],
-   "fetched_at": "2026-10-29T05:14:48+09:00"
+   "fetched_at": "2026-10-29T18:53:54+09:00"
   },
   {
    "id": "92-1523320",
@@ -102,7 +102,7 @@
    "title": "'27년 2월 입영하는(26-11회차) 해병대 병 모집계획 안내",
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=92&gsgeul_no=1523320&mc=usr0000385",
    "posted": "2026-10-22",
-   "modified": "2026-10-26",
+   "modified": "2026-10-29",
    "round": "26-11",
    "extra": false,
    "events": {
@@ -134,11 +134,11 @@
    },
    "attachments": [
     {
-     "name": "26-11회차(27년 2월 입영) 해병대 병 모집계획(수정)",
+     "name": "26-11회차(27년 2월 입영) 해병대 병 모집계획(수정)_드론일정",
      "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=92&gsgeul_no=1523320&ilryeon_no=1"
     }
    ],
-   "fetched_at": "2026-10-29T05:14:48+09:00"
+   "fetched_at": "2026-10-29T18:53:54+09:00"
   },
   {
    "id": "93-1523239",
@@ -796,6 +796,16 @@
    "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
   },
   {
+   "no": "1523351",
+   "title": "'27년 2월 입영하는(26-11회차) 해군 전문특…",
+   "posted": "2026-10-28",
+   "pinned": true,
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1523351&mc=usr0000128",
+   "branch": "navy",
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
+  },
+  {
    "no": "1523321",
    "title": "'27년 2월 입영하는(26-11회차) 해군 병 모…",
    "posted": "2026-10-22",
@@ -911,16 +921,6 @@
    "posted": "2022-09-01",
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1512174&mc=usr0000128",
-   "branch": "navy",
-   "board": "notice",
-   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
-  },
-  {
-   "no": "1523351",
-   "title": "'27년 2월 입영하는(26-11회차) 해군 전문특…",
-   "posted": "2026-10-28",
-   "pinned": false,
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1523351&mc=usr0000128",
    "branch": "navy",
    "board": "notice",
    "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
@@ -1340,8 +1340,8 @@
   "93-1523295": "2026-10-20",
   "93-1523237": "2026-10-12",
   "93-1523236": "2026-10-12",
-  "93-1523167": "2026-10-01",
   "94-1523222": "2026-10-08",
-  "95-1523127": "2026-09-23"
+  "95-1523127": "2026-09-23",
+  "93-1523362": "2026-10-29"
  }
 }
