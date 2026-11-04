@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T05:57:54+09:00",
+ "updated_at": "2026-11-04T19:52:03+09:00",
  "source": "https://www.mma.go.kr",
  "errors": [],
  "recruits": [
@@ -891,6 +891,16 @@
    "posted": "2026-05-22",
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1522260&mc=usr0000128",
+   "branch": "navy",
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
+  },
+  {
+   "no": "1521982",
+   "title": "(강조) 해군 모집병 어학성적 관련 알림(26-10…",
+   "posted": "2026-04-17",
+   "pinned": true,
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1521982&mc=usr0000128",
    "branch": "navy",
    "board": "notice",
    "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
