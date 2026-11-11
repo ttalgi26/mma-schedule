@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T06:17:30+09:00",
+ "updated_at": "2026-11-11T19:51:23+09:00",
  "source": "https://www.mma.go.kr",
  "errors": [],
  "recruits": [
@@ -796,6 +796,16 @@
    "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
   },
   {
+   "no": "1523464",
+   "title": "27년 2월 입영 해군 특전병 실기 및 체력 일정…",
+   "posted": "2026-11-11",
+   "pinned": true,
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1523464&mc=usr0000128",
+   "branch": "navy",
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
+  },
+  {
    "no": "1523351",
    "title": "'27년 2월 입영하는(26-11회차) 해군 전문특…",
    "posted": "2026-10-28",
@@ -931,16 +941,6 @@
    "posted": "2022-09-01",
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1512174&mc=usr0000128",
-   "branch": "navy",
-   "board": "notice",
-   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
-  },
-  {
-   "no": "1523286",
-   "title": "\"26년 12월 입영(26-109회차)하는 해군 병…",
-   "posted": "2026-10-20",
-   "pinned": false,
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1523286&mc=usr0000128",
    "branch": "navy",
    "board": "notice",
    "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
