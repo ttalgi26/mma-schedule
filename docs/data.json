@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T05:23:02+09:00",
+ "updated_at": "2026-11-16T20:08:51+09:00",
  "source": "https://www.mma.go.kr",
  "errors": [],
  "recruits": [
@@ -671,6 +671,16 @@
  ],
  "notices": [
   {
+   "no": "1523489",
+   "title": "(전문특기병) 육군 전문특기병 선발기준(체력평가)…",
+   "posted": "2026-11-16",
+   "pinned": true,
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1523489&mc=usr0000127",
+   "branch": "army",
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
+  },
+  {
    "no": "1523477",
    "title": "2026년 12월 입영 「육군 기술행정병」 추가모집…",
    "posted": "2026-11-13",
@@ -806,16 +816,6 @@
    "posted": "2026-10-22",
    "pinned": false,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1523315&mc=usr0000127",
-   "branch": "army",
-   "board": "notice",
-   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
-  },
-  {
-   "no": "1523124",
-   "title": "2027년 1월 입영 「육군 기술행정병」 모집 안내",
-   "posted": "2026-09-22",
-   "pinned": false,
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1523124&mc=usr0000127",
    "branch": "army",
    "board": "notice",
    "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
@@ -1261,61 +1261,51 @@
    "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=72&mc=usr0000130"
   },
   {
+   "no": "1523487",
+   "title": "육군 기술행정병 26-11회차('27년 2월 입영)…",
+   "posted": "2026-11-16",
+   "pinned": true,
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=91&gsgeul_no=1523487&mc=mma0003717",
+   "branch": null,
+   "board": "score",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=91&mc=mma0003717"
+  },
+  {
+   "no": "1523486",
+   "title": "해병대 병 2026년 11회차(2027년 2월 입영…",
+   "posted": "2026-11-16",
+   "pinned": true,
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=91&gsgeul_no=1523486&mc=mma0003717",
+   "branch": null,
+   "board": "score",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=91&mc=mma0003717"
+  },
+  {
+   "no": "1523485",
+   "title": "해군 병 2026년 11회차(2027년 2월 입영)…",
+   "posted": "2026-11-16",
+   "pinned": true,
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=91&gsgeul_no=1523485&mc=mma0003717",
+   "branch": null,
+   "board": "score",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=91&mc=mma0003717"
+  },
+  {
+   "no": "1523484",
+   "title": "공군 병 2026년 11회차('27년 2월 입영)…",
+   "posted": "2026-11-16",
+   "pinned": true,
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=91&gsgeul_no=1523484&mc=mma0003717",
+   "branch": null,
+   "board": "score",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=91&mc=mma0003717"
+  },
+  {
    "no": "1523280",
    "title": "육군 기술행정병 26-10회차('27년 1월 입영)…",
    "posted": "2026-10-19",
-   "pinned": true,
+   "pinned": false,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=91&gsgeul_no=1523280&mc=mma0003717",
-   "branch": null,
-   "board": "score",
-   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=91&mc=mma0003717"
-  },
-  {
-   "no": "1523277",
-   "title": "공군 병 2026년 10회차('27년 1월 입영)…",
-   "posted": "2026-10-19",
-   "pinned": true,
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=91&gsgeul_no=1523277&mc=mma0003717",
-   "branch": null,
-   "board": "score",
-   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=91&mc=mma0003717"
-  },
-  {
-   "no": "1523055",
-   "title": "해병대 병 2026년 9회차(2026년 12월 입영…",
-   "posted": "2026-09-15",
-   "pinned": true,
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=91&gsgeul_no=1523055&mc=mma0003717",
-   "branch": null,
-   "board": "score",
-   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=91&mc=mma0003717"
-  },
-  {
-   "no": "1523054",
-   "title": "해군 병 2026년 9회차(2026년 12월 입영)…",
-   "posted": "2026-09-15",
-   "pinned": true,
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=91&gsgeul_no=1523054&mc=mma0003717",
-   "branch": null,
-   "board": "score",
-   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=91&mc=mma0003717"
-  },
-  {
-   "no": "1523279",
-   "title": "해군 병 2026년 9회차(2026년 12월 입영)…",
-   "posted": "2026-10-19",
-   "pinned": false,
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=91&gsgeul_no=1523279&mc=mma0003717",
-   "branch": null,
-   "board": "score",
-   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=91&mc=mma0003717"
-  },
-  {
-   "no": "1523278",
-   "title": "해병대 병 2026년 10회차(2027년 1월 입영…",
-   "posted": "2026-10-19",
-   "pinned": false,
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=91&gsgeul_no=1523278&mc=mma0003717",
    "branch": null,
    "board": "score",
    "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=91&mc=mma0003717"
@@ -1351,11 +1341,21 @@
    "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=91&mc=mma0003717"
   },
   {
-   "no": "1522838",
-   "title": "해병대 병 2026년 8회차(2026년 11월 입영…",
-   "posted": "2026-08-13",
+   "no": "1522617",
+   "title": "육군 기술행정병 26-7회차('26년 10월 입영)…",
+   "posted": "2026-07-14",
    "pinned": false,
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=91&gsgeul_no=1522838&mc=mma0003717",
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=91&gsgeul_no=1522617&mc=mma0003717",
+   "branch": null,
+   "board": "score",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=91&mc=mma0003717"
+  },
+  {
+   "no": "1522379",
+   "title": "육군 기술행정병 26-6회차('26년 9월 입영)…",
+   "posted": "2026-06-16",
+   "pinned": false,
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=91&gsgeul_no=1522379&mc=mma0003717",
    "branch": null,
    "board": "score",
    "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=91&mc=mma0003717"
