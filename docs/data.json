@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T07:34:49+09:00",
+ "updated_at": "2026-11-20T07:39:26+09:00",
  "source": "https://www.mma.go.kr",
  "errors": [],
  "recruits": [
@@ -821,6 +821,16 @@
    "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
   },
   {
+   "no": "1523528",
+   "title": "(27년 1회차 모집부터 적용) 해군 전문기술병·전…",
+   "posted": "2026-11-19",
+   "pinned": true,
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1523528&mc=usr0000128",
+   "branch": "navy",
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
+  },
+  {
    "no": "1523464",
    "title": "27년 2월 입영 해군 특전병 실기 및 체력 일정…",
    "posted": "2026-11-11",
@@ -956,16 +966,6 @@
    "posted": "2025-09-22",
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1520551&mc=usr0000128",
-   "branch": "navy",
-   "board": "notice",
-   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
-  },
-  {
-   "no": "1512174",
-   "title": "해군 군종병 추천서 서식 안내",
-   "posted": "2022-09-01",
-   "pinned": true,
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1512174&mc=usr0000128",
    "branch": "navy",
    "board": "notice",
    "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
@@ -1371,12 +1371,13 @@
   "71-1523126": "2026-09-23",
   "72-1523220": "2026-10-08",
   "93-1523297": "2026-10-20",
-  "93-1523296": "2026-10-20",
   "94-1523222": "2026-10-08",
   "95-1523127": "2026-09-23",
   "93-1523362": "2026-10-29",
   "93-1523515": "2026-11-18",
   "93-1523514": "2026-11-18",
-  "93-1523513": "2026-11-18"
+  "93-1523513": "2026-11-18",
+  "94-1523529": "2026-11-19",
+  "70-1523528": "2026-11-19"
  }
 }
