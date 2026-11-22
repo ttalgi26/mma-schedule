@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22T20:16:13+09:00",
+ "updated_at": "2026-11-23T06:01:54+09:00",
  "source": "https://www.mma.go.kr",
  "errors": [],
  "recruits": [
@@ -43,7 +43,7 @@
      "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=93&gsgeul_no=1523530&ilryeon_no=2"
     }
    ],
-   "fetched_at": "2026-11-22T20:16:13+09:00"
+   "fetched_at": "2026-11-23T06:01:54+09:00"
   },
   {
    "id": "93-1523476",
@@ -973,16 +973,6 @@
    "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
   },
   {
-   "no": "1522260",
-   "title": "'26년 9월 입영(26-6회차)하는 해군 병 모집…",
-   "posted": "2026-05-22",
-   "pinned": true,
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1522260&mc=usr0000128",
-   "branch": "navy",
-   "board": "notice",
-   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
-  },
-  {
    "no": "1521982",
    "title": "(강조) 해군 모집병 어학성적 관련 알림(26-10…",
    "posted": "2026-04-17",
@@ -1008,6 +998,16 @@
    "posted": "2025-09-22",
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1520551&mc=usr0000128",
+   "branch": "navy",
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
+  },
+  {
+   "no": "1512174",
+   "title": "해군 군종병 추천서 서식 안내",
+   "posted": "2022-09-01",
+   "pinned": true,
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1512174&mc=usr0000128",
    "branch": "navy",
    "board": "notice",
    "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
