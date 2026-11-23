@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T06:01:54+09:00",
+ "updated_at": "2026-11-23T21:27:57+09:00",
  "source": "https://www.mma.go.kr",
  "errors": [],
  "recruits": [
@@ -43,7 +43,102 @@
      "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=93&gsgeul_no=1523530&ilryeon_no=2"
     }
    ],
-   "fetched_at": "2026-11-23T06:01:54+09:00"
+   "fetched_at": "2026-11-23T21:27:57+09:00"
+  },
+  {
+   "id": "94-1523543",
+   "branch": "navy",
+   "source": "plan",
+   "title": "2027년 3월 입영(26-12회차) 해군 병 모집계획 알림",
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=94&gsgeul_no=1523543&mc=usr0000151",
+   "posted": "2026-11-23",
+   "modified": "2026-11-23",
+   "round": "26-12",
+   "extra": false,
+   "events": {
+    "apply": {
+     "start": "2026-11-27T14:00:00+09:00",
+     "end": "2026-12-03T14:00:00+09:00",
+     "dateOnly": false
+    },
+    "first": {
+     "start": "2026-12-18T10:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    },
+    "exam": {
+     "start": "2026-12-21T00:00:00+09:00",
+     "end": "2027-01-11T23:59:59+09:00",
+     "dateOnly": true
+    },
+    "practical": {
+     "start": "2026-12-21T00:00:00+09:00",
+     "end": "2027-01-11T23:59:59+09:00",
+     "dateOnly": true
+    },
+    "final": {
+     "start": "2027-01-21T10:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    },
+    "enlist": {
+     "start": "2027-03-22T14:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    }
+   },
+   "attachments": [
+    {
+     "name": "26-12회차(27년 3월 입영) 해군 병 모집계획",
+     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=94&gsgeul_no=1523543&ilryeon_no=1"
+    }
+   ],
+   "fetched_at": "2026-11-23T21:27:57+09:00"
+  },
+  {
+   "id": "92-1523546",
+   "branch": "marine",
+   "source": "plan",
+   "title": "2027년 3월 입영(26-12회차) 해병대 병 모집계획 알림",
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=92&gsgeul_no=1523546&mc=usr0000385",
+   "posted": "2026-11-23",
+   "modified": "2026-11-23",
+   "round": "26-12",
+   "extra": false,
+   "events": {
+    "apply": {
+     "start": "2026-11-27T14:00:00+09:00",
+     "end": "2026-12-03T14:00:00+09:00",
+     "dateOnly": false
+    },
+    "first": {
+     "start": "2026-12-18T10:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    },
+    "practical": {
+     "start": "2026-12-21T00:00:00+09:00",
+     "end": "2027-01-11T23:59:59+09:00",
+     "dateOnly": true
+    },
+    "final": {
+     "start": "2027-01-21T10:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    },
+    "enlist": {
+     "start": "2027-03-29T14:00:00+09:00",
+     "end": null,
+     "dateOnly": false
+    }
+   },
+   "attachments": [
+    {
+     "name": "26-12회차(27년 3월 입영) 해병대 병 모집계획",
+     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=92&gsgeul_no=1523546&ilryeon_no=1"
+    }
+   ],
+   "fetched_at": "2026-11-23T21:27:57+09:00"
   },
   {
    "id": "93-1523476",
@@ -863,6 +958,16 @@
    "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=69&mc=usr0000127"
   },
   {
+   "no": "1523544",
+   "title": "2027년 3월 입영(26-12회차) 해군 병 모집…",
+   "posted": "2026-11-23",
+   "pinned": true,
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1523544&mc=usr0000128",
+   "branch": "navy",
+   "board": "notice",
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
+  },
+  {
    "no": "1523528",
    "title": "(27년 1회차 모집부터 적용) 해군 전문기술병·전…",
    "posted": "2026-11-19",
@@ -1003,14 +1108,14 @@
    "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
   },
   {
-   "no": "1512174",
-   "title": "해군 군종병 추천서 서식 안내",
-   "posted": "2022-09-01",
+   "no": "1523541",
+   "title": "'27년 3월 입영(26-12회차) 공군 전문기술병…",
+   "posted": "2026-11-23",
    "pinned": true,
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=70&gsgeul_no=1512174&mc=usr0000128",
-   "branch": "navy",
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=71&gsgeul_no=1523541&mc=usr0000129",
+   "branch": "airforce",
    "board": "notice",
-   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=70&mc=usr0000128"
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=71&mc=usr0000129"
   },
   {
    "no": "1523511",
@@ -1143,14 +1248,14 @@
    "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=71&mc=usr0000129"
   },
   {
-   "no": "1522758",
-   "title": "공군 차량운전 및 차량정비 직종 관련 자격·면허 목…",
-   "posted": "2026-07-31",
-   "pinned": false,
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=71&gsgeul_no=1522758&mc=usr0000129",
-   "branch": "airforce",
+   "no": "1523545",
+   "title": "2027년 3월 입영(26-12회차) 해병대 병 모…",
+   "posted": "2026-11-23",
+   "pinned": true,
+   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=72&gsgeul_no=1523545&mc=usr0000130",
+   "branch": "marine",
    "board": "notice",
-   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=71&mc=usr0000129"
+   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=72&mc=usr0000130"
   },
   {
    "no": "1523470",
@@ -1288,16 +1393,6 @@
    "posted": "2026-06-19",
    "pinned": true,
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=72&gsgeul_no=1522421&mc=usr0000130",
-   "branch": "marine",
-   "board": "notice",
-   "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=72&mc=usr0000130"
-  },
-  {
-   "no": "1522349",
-   "title": "2026년 7월 입영하는 해병대 병 추가모집(26-…",
-   "posted": "2026-06-08",
-   "pinned": true,
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=72&gsgeul_no=1522349&mc=usr0000130",
    "branch": "marine",
    "board": "notice",
    "listUrl": "https://www.mma.go.kr/board/boardList.do?gesipan_id=72&mc=usr0000130"
