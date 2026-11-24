@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T21:27:57+09:00",
+ "updated_at": "2026-11-24T11:10:34+09:00",
  "source": "https://www.mma.go.kr",
  "errors": [],
  "recruits": [
@@ -33,17 +33,8 @@
      "month": "2027-03"
     }
    },
-   "attachments": [
-    {
-     "name": "2026년 12회차(27년 3월 입영) 응시지방청별 전형일정",
-     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=93&gsgeul_no=1523530&ilryeon_no=1"
-    },
-    {
-     "name": "2026년 12회차(27년 3월 입영) 군사특기별 모집계획",
-     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=93&gsgeul_no=1523530&ilryeon_no=2"
-    }
-   ],
-   "fetched_at": "2026-11-23T21:27:57+09:00"
+   "attachments": [],
+   "fetched_at": "2026-11-24T11:10:34+09:00"
   },
   {
    "id": "94-1523543",
@@ -52,7 +43,7 @@
    "title": "2027년 3월 입영(26-12회차) 해군 병 모집계획 알림",
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=94&gsgeul_no=1523543&mc=usr0000151",
    "posted": "2026-11-23",
-   "modified": "2026-11-23",
+   "modified": "2026-11-24",
    "round": "26-12",
    "extra": false,
    "events": {
@@ -93,7 +84,7 @@
      "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=94&gsgeul_no=1523543&ilryeon_no=1"
     }
    ],
-   "fetched_at": "2026-11-23T21:27:57+09:00"
+   "fetched_at": "2026-11-24T11:10:34+09:00"
   },
   {
    "id": "92-1523546",
@@ -102,7 +93,7 @@
    "title": "2027년 3월 입영(26-12회차) 해병대 병 모집계획 알림",
    "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=92&gsgeul_no=1523546&mc=usr0000385",
    "posted": "2026-11-23",
-   "modified": "2026-11-23",
+   "modified": "2026-11-24",
    "round": "26-12",
    "extra": false,
    "events": {
@@ -138,7 +129,7 @@
      "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=92&gsgeul_no=1523546&ilryeon_no=1"
     }
    ],
-   "fetched_at": "2026-11-23T21:27:57+09:00"
+   "fetched_at": "2026-11-24T11:10:34+09:00"
   },
   {
    "id": "93-1523476",
