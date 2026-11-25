@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T21:46:28+09:00",
+ "updated_at": "2026-11-26T08:36:25+09:00",
  "source": "https://www.mma.go.kr",
  "errors": [],
  "recruits": [
@@ -68,7 +68,7 @@
      "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=93&gsgeul_no=1523530&ilryeon_no=2"
     }
    ],
-   "fetched_at": "2026-11-25T21:46:28+09:00"
+   "fetched_at": "2026-11-26T08:36:25+09:00"
   },
   {
    "id": "94-1523543",
@@ -118,7 +118,7 @@
      "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=94&gsgeul_no=1523543&ilryeon_no=1"
     }
    ],
-   "fetched_at": "2026-11-25T21:46:28+09:00"
+   "fetched_at": "2026-11-26T08:36:25+09:00"
   },
   {
    "id": "92-1523546",
@@ -163,7 +163,7 @@
      "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=92&gsgeul_no=1523546&ilryeon_no=1"
     }
    ],
-   "fetched_at": "2026-11-25T21:46:28+09:00"
+   "fetched_at": "2026-11-26T08:36:25+09:00"
   },
   {
    "id": "93-1523476",
@@ -1527,7 +1527,6 @@
   "92-1523223": "2026-10-08",
   "69-1523092": "2026-09-21",
   "69-1523090": "2026-09-21",
-  "69-1522948": "2026-08-28",
   "70-1523221": "2026-10-08",
   "71-1523129": "2026-09-23",
   "71-1523126": "2026-09-23",
