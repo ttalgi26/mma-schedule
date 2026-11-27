@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T08:48:45+09:00",
+ "updated_at": "2026-11-27T21:10:16+09:00",
  "source": "https://www.mma.go.kr",
  "errors": [],
  "recruits": [
@@ -68,7 +68,7 @@
      "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=93&gsgeul_no=1523530&ilryeon_no=2"
     }
    ],
-   "fetched_at": "2026-11-27T08:48:45+09:00"
+   "fetched_at": "2026-11-27T21:10:16+09:00"
   },
   {
    "id": "94-1523543",
@@ -118,7 +118,7 @@
      "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=94&gsgeul_no=1523543&ilryeon_no=1"
     }
    ],
-   "fetched_at": "2026-11-27T08:48:45+09:00"
+   "fetched_at": "2026-11-27T21:10:16+09:00"
   },
   {
    "id": "92-1523546",
@@ -163,7 +163,7 @@
      "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=92&gsgeul_no=1523546&ilryeon_no=1"
     }
    ],
-   "fetched_at": "2026-11-27T08:48:45+09:00"
+   "fetched_at": "2026-11-27T21:10:16+09:00"
   },
   {
    "id": "93-1523476",
@@ -326,56 +326,6 @@
     }
    ],
    "fetched_at": "2026-11-03T08:06:23+09:00"
-  },
-  {
-   "id": "93-1523239",
-   "branch": "army",
-   "source": "plan",
-   "title": "2026년 11월 입영 「육군 기술행정병」 추가모집 안내",
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=93&gsgeul_no=1523239&mc=usr0000150",
-   "posted": "2026-10-12",
-   "modified": "2026-10-12",
-   "round": null,
-   "extra": true,
-   "events": {
-    "apply": {
-     "start": "2026-10-13T14:00:00+09:00",
-     "end": null,
-     "dateOnly": false
-    }
-   },
-   "attachments": [
-    {
-     "name": "추가모집 공석현황(26년 11월 입영)_게시용(261013)",
-     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=93&gsgeul_no=1523239&ilryeon_no=1"
-    }
-   ],
-   "fetched_at": "2026-10-12T19:43:45+09:00"
-  },
-  {
-   "id": "69-1523240",
-   "branch": "army",
-   "source": "notice",
-   "title": "2026년 11월 입영 「육군 기술행정병」 추가모집 안내(마감)",
-   "url": "https://www.mma.go.kr/board/boardView.do?gesipan_id=69&gsgeul_no=1523240&mc=usr0000127",
-   "posted": "2026-10-12",
-   "modified": "2026-10-22",
-   "round": null,
-   "extra": true,
-   "events": {
-    "apply": {
-     "start": "2026-10-13T14:00:00+09:00",
-     "end": null,
-     "dateOnly": false
-    }
-   },
-   "attachments": [
-    {
-     "name": "추가모집 공석현황(26년 11월 입영)_게시용(261013)",
-     "url": "https://www.mma.go.kr/boardFileDown.do?gesipan_id=69&gsgeul_no=1523240&ilryeon_no=1"
-    }
-   ],
-   "fetched_at": "2026-10-22T17:33:21+09:00"
   },
   {
    "id": "72-1523152",
